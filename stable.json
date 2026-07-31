@@ -1,0 +1,10 @@
+{
+  "version": "0.1.1",
+  "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v0.1.1/XYZW.Local.Helper-0.1.1-win-x64-UNSIGNED.exe",
+  "sha256": "d3273bbb0ecab91b2bf6632652b0f8baa81b4a6fb6df82d5df96127fdb20df8b",
+  "platform": "win32",
+  "publishedAt": "2026-07-31T23:23:48.848Z",
+  "notes": "首次公开体验版",
+  "unsigned": true,
+  "signature": "5InB_MgJndzM9wTiYusg2sTA-46nPKfRemiXQGh9l9JJsbh4AKFZ2hWYQL1RMkqCgNzA9KZK2DUH2orQUbnHDg"
+}
