@@ -1,10 +1,10 @@
 {
   "version": "0.1.1",
-  "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v0.1.1/XYZW.Local.Helper-0.1.1-win-x64-UNSIGNED.exe",
-  "sha256": "d3273bbb0ecab91b2bf6632652b0f8baa81b4a6fb6df82d5df96127fdb20df8b",
+  "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v0.1.1/XYZW%20Local%20Helper-0.1.1-win-x64-UNSIGNED.exe",
+  "sha256": "8d31969276aecf8dc91c53e7f027940c46516f335f546d46b8642ef611ea8c78",
   "platform": "win32",
-  "publishedAt": "2026-07-31T23:23:48.848Z",
-  "notes": "首次公开体验版",
+  "publishedAt": "2026-08-01T17:06:18.854Z",
+  "notes": "### 首次公开体验版\n\n- 发布 Windows 本地助手，提供账号导入、任务预设、任务队列和失败恢复提示。\n- 支持本地数据库备份、下载与恢复指引，以及断线后的工作区重新同步。\n- 优化竞技场、俱乐部 Boss、每日 Boss 未完成任务的补做流程，保留原有阵容和挑战次数配置。\n- 日志和任务事件流在电脑休眠或网络变化后可自动恢复连接。\n- 统一按北京时间展示任务、日志、缓存和单账号状态的关键时间。\n- 新增任务动作配置，可统一控制前后端任务的显示与执行开关。\n\n### 桌面端与安全\n\n- 支持本地授权码激活、安装包内容校验和发布前检查。\n- 正式安装包与测试包分离，避免旧文件影响发布校验。\n- 增加后续自动更新所需的签名清单与下载校验能力。",
   "unsigned": true,
-  "signature": "5InB_MgJndzM9wTiYusg2sTA-46nPKfRemiXQGh9l9JJsbh4AKFZ2hWYQL1RMkqCgNzA9KZK2DUH2orQUbnHDg"
+  "signature": "DHslqiRMAa7VNb3Unav0ZdapEFwXhE0Z0YAhQy6O8HVpkddY-pixkFc0ciFlHc3ae6UTnblotOD4LnBJJqGdAA"
 }
