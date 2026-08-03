@@ -1,10 +1,10 @@
 {
   "version": "0.1.2",
-  "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v0.1.2/XYZW%20Local%20Helper-0.1.2-win-x64-UNSIGNED.exe",
+  "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v0.1.2/XYZW.Local.Helper-0.1.2-win-x64-UNSIGNED.exe",
   "sha256": "5a5b33e1deb688b42e4004160c5aa144b44895ff7ebdff6cda9d0b3f9a9b58b3",
   "platform": "win32",
-  "publishedAt": "2026-08-03T21:14:35.323Z",
+  "publishedAt": "2026-08-03T21:30:40.701Z",
   "notes": "### 重要修复\n\n- 修复认证失败时可能覆盖本地有效 token 的问题，避免账号数据被异常响应误改。\n- 优化 token 过期后的识别和提示，避免过期状态被误判。\n- 修复日常任务奖励领取流程，确保符合条件的奖励不会被遗漏。\n- 修复实时日志在刷新或重连后可能出现乱序的问题。\n\n### 稳定性\n\n- 补齐任务服务相关测试，提升发布前校验的可靠性。",
   "unsigned": true,
-  "signature": "LuwnD11HLdDwND37G4V8DXfPRC7kkyDH0JmpaqGLB-sHKH1E5JbyJ46XR20l0gFOvfCFkd5M1B43mDz5pbSnAA"
+  "signature": "HxVk57f1LIoVhqfR_arKPoYt0yNrGlMN4u8zM8c6Nm4qQh32OHxdfbSUd_fVaueBE97VPDtfpUHzldA5j9MjCQ"
 }
