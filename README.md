@@ -71,6 +71,8 @@
 
 如遇到安装、更新或激活问题，请通过提供该软件的渠道联系支持人员，并附上客户端版本号和相关错误信息。
 
+[发邮件给我](mailto:mikeyuan90@gmail.com)
+
 ## TG群
 
-https://t.me/+LsqSoaOyskk4MjBl
+[进群体验邀请码](https://t.me/+LsqSoaOyskk4MjBl)
