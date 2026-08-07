@@ -1,10 +1,10 @@
 {
-  "version": "0.1.2",
-  "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v0.1.2/XYZW.Local.Helper-0.1.2-win-x64-UNSIGNED.exe",
-  "sha256": "5a5b33e1deb688b42e4004160c5aa144b44895ff7ebdff6cda9d0b3f9a9b58b3",
+  "version": "0.1.3",
+  "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v0.1.3/XYZW.Local.Helper-0.1.3-win-x64-UNSIGNED.exe",
+  "sha256": "db050fffb06e6b6714b66cc3e099d3a50edcd6acbe82b025a0020d4d3efcadfb",
   "platform": "win32",
-  "publishedAt": "2026-08-03T21:30:40.701Z",
-  "notes": "### 重要修复\n\n- 修复认证失败时可能覆盖本地有效 token 的问题，避免账号数据被异常响应误改。\n- 优化 token 过期后的识别和提示，避免过期状态被误判。\n- 修复日常任务奖励领取流程，确保符合条件的奖励不会被遗漏。\n- 修复实时日志在刷新或重连后可能出现乱序的问题。\n\n### 稳定性\n\n- 补齐任务服务相关测试，提升发布前校验的可靠性。",
+  "publishedAt": "2026-08-07T16:58:57.654Z",
+  "notes": "### 桌面端\r\n\r\n- 新增 macOS 未签名预览发布：生成带 `-UNSIGNED.dmg` 标记、校验和与 Gatekeeper 放行说明的安装包。\r\n- macOS 使用专用的留白应用图标，并缩小菜单栏状态图标，改善与系统应用的视觉协调性。\r\n- 更新提示与发布清单支持标记未签名的 macOS DMG。\r\n- macOS 更新使用独立清单并保留 DMG 文件名；下载完成后提供替换应用与 Gatekeeper 放行指引。\r\n- Windows 与 macOS 分别生成平台专属 SHA-256 校验清单，避免发布产物相互覆盖。\r\n\r\n### 稳定性\r\n\r\n- 预约对战比赛领取金砖前会先查询可预约房间；没有比赛时跳过领取，减少无效请求报错。\r\n- 修复单周活动时间判断，周五00-12点为活动切换时间。",
   "unsigned": true,
-  "signature": "HxVk57f1LIoVhqfR_arKPoYt0yNrGlMN4u8zM8c6Nm4qQh32OHxdfbSUd_fVaueBE97VPDtfpUHzldA5j9MjCQ"
+  "signature": "CfD-SxggJVPWkw4WfnAUmye_WdVATFQ-M8SECwQUzBT9j0PwRLkKMJJvvCYwvZ1SdaZGl4pqaGA_zW-H2haPDg"
 }
