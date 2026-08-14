@@ -1,10 +1,10 @@
 {
   "version": "0.1.5",
   "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v0.1.5/XYZW.Local.Helper-0.1.5-mac-x64-UNSIGNED.dmg",
-  "sha256": "d5788828275be92916a804a4b5666f03d25159e0591645db612d98617d7f7031",
+  "sha256": "c67f8aa249e7d18a35f6396e03072f96127caf9886c4dccf7e96ab9a3a03315d",
   "platform": "darwin",
-  "publishedAt": "2026-08-14T21:17:35.435Z",
+  "publishedAt": "2026-08-14T21:58:28.795Z",
   "notes": "### 使用体验\n\n- 登录页默认填入 `admin`，并新增仅限本机桌面端使用的管理员密码重置入口；重置不会删除本地游戏账号、任务、日志或备份。\n- 任务计划新增“一键生成默认计划”：可分组勾选每日、周常、成长与资源消耗型任务，统一按全部账号创建并覆盖后续新增账号。\n- 生成前会提示与现有启用计划的执行时间冲突；相同的全部账号计划会自动跳过。需要进一步配置的资源消耗型任务会以暂停状态生成，确认参数后再启用。\n\n### 问题修复\n\n- 更新说明优化显示",
   "unsigned": true,
-  "signature": "ilBGCBhfhBRQQeHWbeGE3uuUOGx4Gz5EhZ6UjvD2QWdXLDgcAlXYuMisqntP-LUE54Iouz3Me8q4-3jSU91oAw"
+  "signature": "VH6LC-vP3FbMQQh0aWl_BhyFSBXThm6ja5bQYUOnXkMKTHjjj90VT0jess_STNk-Tys0kEPa0OyEAYAx8RpDDg"
 }
