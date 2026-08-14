@@ -1,10 +1,10 @@
 {
   "version": "0.1.5",
   "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v0.1.5/XYZW.Local.Helper-0.1.5-win-x64-UNSIGNED.exe",
-  "sha256": "9a5deaeaa6381634bbb29d222bf017c149504dced07d4ac59d167023a6369a39",
+  "sha256": "52416679f96c398e747ac87011ac0315c5c51437509885321ad332ce0ed85872",
   "platform": "win32",
-  "publishedAt": "2026-08-14T21:26:20.529Z",
+  "publishedAt": "2026-08-14T21:48:05.719Z",
   "notes": "### 使用体验\n\n- 登录页默认填入 `admin`，并新增仅限本机桌面端使用的管理员密码重置入口；重置不会删除本地游戏账号、任务、日志或备份。\n- 任务计划新增“一键生成默认计划”：可分组勾选每日、周常、成长与资源消耗型任务，统一按全部账号创建并覆盖后续新增账号。\n- 生成前会提示与现有启用计划的执行时间冲突；相同的全部账号计划会自动跳过。需要进一步配置的资源消耗型任务会以暂停状态生成，确认参数后再启用。\n\n### 问题修复\n\n- 更新说明优化显示",
   "unsigned": true,
-  "signature": "N2hZl2fmE7E1SUG5GVH_UneVFyqOlmcBWqOuJuNpnNqU-BCVXzc1nkd4zs9bA8QnaKD_hE4kE25QsehLlHgnCw"
+  "signature": "z3psvHdnWrxnhhPJZkrOO8j1cgIKgVsB70nt1JFF3_dfOuNG3TEtPqkVUBPCp4FOB0ovrFcrymLXAIbGKwYrAA"
 }
