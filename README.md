@@ -87,7 +87,13 @@ MacOS 会验证应用来源和签名。请只从本仓库的 Release 下载 `.dm
 
 ## 支持
 
-如遇到安装、更新或激活问题，请通过提供该软件的渠道联系支持人员，并附上客户端版本号和相关错误信息。
+如遇到安装、更新或激活问题，请通过下方微信联系支持人员，并附上客户端版本号和相关错误信息。请不要发送账号文件、Token 或密码。
+
+<p>
+  <img src="./docs/images/wechat-contact-qr.jpg" width="260" alt="微信联系二维码：Mike Yuan，微信号 MikeLearnsIT" />
+</p>
+
+微信号：`MikeLearnsIT`（无法扫码时可直接在微信搜索添加；请备注“XYZW 本地助手”）。
 
 [发邮件给我](mailto:mikeyuan90@gmail.com)
 
