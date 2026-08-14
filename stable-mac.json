@@ -1,10 +1,10 @@
 {
-  "version": "0.1.4",
-  "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v0.1.4/XYZW.Local.Helper-0.1.4-mac-x64-UNSIGNED.dmg",
-  "sha256": "ca9518ca25eaf3c087279a530673e581d5aae35a286f23c0c0d602e6fc372e13",
+  "version": "0.1.5",
+  "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v0.1.5/XYZW.Local.Helper-0.1.5-mac-x64-UNSIGNED.dmg",
+  "sha256": "d5788828275be92916a804a4b5666f03d25159e0591645db612d98617d7f7031",
   "platform": "darwin",
-  "publishedAt": "2026-08-14T10:22:24.740Z",
-  "notes": "### 每日任务\n\n- 三周轮替活动期间的每日任务会自动领取免费福利：招募周、宝箱周、黑市周分别使用活动 ID 6、7、9。\n- 领取前实时检查活动状态；已领取时跳过请求，并提供独立的“领取本周免费福利”任务动作以便手动执行。\n- 新增盐杯定时下注，可在任务配置中选择下注选项。\n\n### 使用体验\n\n- 新增应用内使用指南与活动福利说明，方便查阅任务配置和常见操作。\n\n### 稳定性与维护\n\n- 修复前端构建时 JavaScript 模块未复制的问题，并兼容 Windows 上短暂的定时任务延迟。\n- 拆分任务执行、账号管理和单账号工作台模块，补齐每日任务、恢复策略与服务层测试，提升后续维护和问题定位效率。",
+  "publishedAt": "2026-08-14T21:17:35.435Z",
+  "notes": "### 使用体验\n\n- 登录页默认填入 `admin`，并新增仅限本机桌面端使用的管理员密码重置入口；重置不会删除本地游戏账号、任务、日志或备份。\n- 任务计划新增“一键生成默认计划”：可分组勾选每日、周常、成长与资源消耗型任务，统一按全部账号创建并覆盖后续新增账号。\n- 生成前会提示与现有启用计划的执行时间冲突；相同的全部账号计划会自动跳过。需要进一步配置的资源消耗型任务会以暂停状态生成，确认参数后再启用。\n\n### 问题修复\n\n- 更新说明优化显示",
   "unsigned": true,
-  "signature": "h3VHyrZiPSgYVhF27y5Gloht9VA3-38Ly9nxlT5lCjk_HoQUMgKSHwbnzw7nuCkwB5pyTfKoKmSCfYV3byMxAg"
+  "signature": "ilBGCBhfhBRQQeHWbeGE3uuUOGx4Gz5EhZ6UjvD2QWdXLDgcAlXYuMisqntP-LUE54Iouz3Me8q4-3jSU91oAw"
 }
