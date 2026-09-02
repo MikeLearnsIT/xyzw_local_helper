@@ -28,6 +28,15 @@
   <img src="./docs/images/daily-schedule.png" width="49%" alt="今日任务计划" />
 </p>
 
+### 主线推关
+
+新增主线推关，页面不需要保持开启，需要升级到v0.1.8版本之后。
+
+<p>
+  <img src="./docs/images/mainline-push.png" width="49%" alt="主线推关" />
+  <img src="./docs/images/mainline-push-select.png" width="49%" alt="主线推关选择" />
+</p>
+
 ### 进度总览与运行日志
 
 集中查看账号进度、阵容状态和实时执行日志；出现问题时可快速定位任务结果。
