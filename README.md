@@ -101,7 +101,7 @@ MacOS 会验证应用来源和签名。请只从本仓库的 Release 下载 `.dm
 ## 微信群
 
 <p>
-  <img src="./docs/images/wechat_group_qr.png" width="260" alt="扫码进群" />
+  <img src="./docs/images/wechat_group_qr.jpg" width="260" alt="扫码进群" />
 </p>
 
 如果上面邀请进群二维码已过期，请加下面的账号拉你进群。
