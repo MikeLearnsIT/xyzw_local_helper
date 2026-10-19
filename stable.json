@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v1.0.2/XYZW.Local.Helper-1.0.2-win-x64-UNSIGNED.exe",
-  "sha256": "6f4cb2d024576452771ee473e0f25e6f25eefbff583c34ef52917245f47d53aa",
+  "version": "1.0.3",
+  "downloadUrl": "https://github.com/MikeLearnsIT/xyzw_local_helper/releases/download/v1.0.3/XYZW.Local.Helper-1.0.3-win-x64-UNSIGNED.exe",
+  "sha256": "cef3c98e3990340ef0555d331a34f46406ddf263d37ed745fa55f1d99b18cecc",
   "platform": "win32",
-  "publishedAt": "2026-10-16T16:38:55.406Z",
-  "notes": "### 新功能\n\n- 新增独立“周年庆典”任务和单账号入口，与一键换皮活动分开；闯关后依次检查并领取生日祝福个人/全服已达成奖励、周年福袋和累计充值首档奖励，按服务器状态跳过已签到或已领取项。\n\n- 新增咸来入境出片领奖：胶卷库存达到10张时自动投入10张，领取当前照片阶段奖励；确认阶段推进后，若剩余胶卷仍够10张则继续处理，不足10张时保留库存。读取活动实时进度，按需补做咸王考验、竞技场至3次、普通免费钓鱼至3次及木质宝箱至3次，再领取已达成的胶卷任务奖励。\n\n### 修复与稳定性\n\n- 补充周年庆与咸来入境任务流程的回归校验，覆盖已领奖跳过、当周状态核对、胶卷不足保留及每日收尾执行顺序。",
+  "publishedAt": "2026-10-19T09:08:07.140Z",
+  "notes": "### 新功能\n\n- 周年庆典领奖流程现在会补领“累计祝福2次”的一次分享奖励；仅在服务器计数仍为1次且分享领奖后计数确认推进到2次时执行，避免重复领取。\n\n### 修复与稳定性\n\n- 周年庆闯关按星期开放路线：周五至周三依次开放 BOSS 1 至 6，周四开放全部路线；服务端返回 200020 时保留错误详情，不再误报为路线未开放。\n\n- 咸来入境每日任务收尾时，会按服务器当周进度领取已完成的盐场争霸赛、蟠桃园、咸王大冲关、营地挑战和扭蛋工坊周期奖励；旧周期状态不会触发领奖。",
   "unsigned": true,
-  "signature": "gQ6LTopwEiAhXG1aLYwaL8seYiTq4nDQ1n51M_pdkMj1BZcbZZQh3Mg4537aTirrnTMVR3BUbuyAQpmUTHWNCg"
+  "signature": "7g1xDh4X9guJxWPlc8mvPD1GL5GtGC2-jsLQ2YqAqvHjYdjnofPM0aJepXaH6n9xjB_XUK4-YTkpFxQxAkU6Aw"
 }
